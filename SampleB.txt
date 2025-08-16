@@ -1,1 +1,2 @@
-SampleB
+SampleB1
+SampleB2
